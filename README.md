@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ## Hello 🌎, I'm Sharang Goel
 
- #### - 🎓 Education: Currently a student at UWaterloo, studying Computer Science (Honours with Co-op).
- #### - 💼 Work: Currently interning at TD Bank (TD Lab) as a Software Developer.
- #### - 🌱 Other: Currently expanding my knowledge on AWS
+ ### - 🎓 Education: Currently a student at UWaterloo, studying Computer Science (Honours with Co-op).
+ ### - 💼 Work: Currently interning at TD Bank (TD Lab) as a Software Developer.
+ ### - 🌱 Other: Currently expanding my knowledge on AWS
 
 
 <h3 align="left">Connect with me:</h3>
