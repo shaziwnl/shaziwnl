@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,bash"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=ts,python,java,c,cpp,bash"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
