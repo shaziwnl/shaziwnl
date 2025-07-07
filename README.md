@@ -19,6 +19,7 @@ Here are some ideas to get you started:
  ### - 🎓 Education: Computer Science (Honours with Co-op) @UWaterloo
  ### - 💼 Work: SWE Intern @Meta
  ### - 🌱 Other: Currently expanding my knowledge on everything
+![](https://komarev.com/ghpvc/?username=shaziwnl)
 
 
 <h3 align="left">Connect with me:</h3>
