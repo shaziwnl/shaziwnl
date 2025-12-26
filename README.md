@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hello 🌎, I'm Sharang Goel
 
  ### - 🎓 Education: Computer Science (Honours with Co-op) @UWaterloo
- ### - 💼 Work: SWE Intern @Meta
+ ### - 💼 Work: SWE Intern @Stripe, Prev @Meta
  ### - 🌱 Other: Currently expanding my knowledge on everything
 
 
