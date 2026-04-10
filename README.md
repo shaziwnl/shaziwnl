@@ -62,7 +62,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,deno,flask,express"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,bun,flask,express"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Databases:</td>
