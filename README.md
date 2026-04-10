@@ -66,7 +66,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Databases:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
