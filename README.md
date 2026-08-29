@@ -36,19 +36,6 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaziwnl&label=Profile%20views&color=0e75b6&style=flat" alt="shaziwnl" /> </p> 
 -->
 
-
-------
-<h3 align="left">Activity:</h3>
-
-[![Shaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaziwnl&theme=github)](https://github.com/shaziwnl/github-readme-activity-graph)
-
-<div align="center">
-  <a href="https://github.com/shaziwnl">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaziwnl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shaziwnl"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaziwnl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shaziwnl"/>
-  </a>
-</div>
-
 ------
 <h3 align="left">Languages and Tools:</h3>
 <table>
